@@ -1,0 +1,22 @@
+body {
+  background-color: azure;
+}
+
+div {
+  margin-top: 35px;
+  text-align: center;
+}
+
+p {
+  font-size: 5em;
+}
+
+button {
+  width: 30%;
+  height: 100px;
+  font-size: 5em;
+  text-align: center;
+  color: white;
+  background-color: chocolate;
+  border-radius: 3em;
+}
